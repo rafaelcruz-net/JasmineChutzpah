@@ -5,7 +5,7 @@
     };
 
     this.Subtrair = function (x, y) {
-        return x = y;
+        return x -y;
     };
 
     this.Multiplicar = function (x, y) {

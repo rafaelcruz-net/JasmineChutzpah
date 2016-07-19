@@ -38,3 +38,43 @@ c:\users\rafael\documents\visual studio 2015\Projects\Chutzpah\Chutzpah\bin\Newt
 c:\users\rafael\documents\visual studio 2015\Projects\Chutzpah\Chutzpah\obj\Debug\Chutzpah.csprojResolveAssemblyReference.cache
 c:\users\rafael\documents\visual studio 2015\Projects\Chutzpah\Chutzpah\obj\Debug\Chutzpah.dll
 c:\users\rafael\documents\visual studio 2015\Projects\Chutzpah\Chutzpah\obj\Debug\Chutzpah.pdb
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\csc.exe
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\vbc.exe
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\VBCSCompiler.exe
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\Chutzpah.dll.config
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\Chutzpah.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\Chutzpah.pdb
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\Antlr3.Runtime.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\Newtonsoft.Json.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.Helpers.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.Mvc.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.Optimization.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.Razor.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.WebPages.Deployment.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.WebPages.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.WebPages.Razor.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\WebGrease.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.Helpers.xml
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.Mvc.xml
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.Optimization.xml
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.Razor.xml
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.WebPages.xml
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.WebPages.Deployment.xml
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\System.Web.WebPages.Razor.xml
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\Antlr3.Runtime.pdb
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\bin\Newtonsoft.Json.xml
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\obj\Debug\Chutzpah.csprojResolveAssemblyReference.cache
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\obj\Debug\Chutzpah.dll
+C:\Users\R Cruz\Source\Repos\JasmineChutzpah\Chutzpah\obj\Debug\Chutzpah.pdb
